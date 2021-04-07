@@ -1,0 +1,15 @@
+package br.com.colecoes.principal;
+
+public class TesteLista {
+
+	public static void main(String[] args) {
+		int[] numeros = new int[3];
+		numeros[0] = 50;
+		numeros[1] = 38;
+		numeros[2] = 17;
+		
+		System.out.println(numeros);
+
+	}
+
+}

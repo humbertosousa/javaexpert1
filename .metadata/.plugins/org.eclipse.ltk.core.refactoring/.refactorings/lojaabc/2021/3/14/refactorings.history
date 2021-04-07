@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;br.com.fiap.lib&apos; to &apos;br.com.lojaabc.lib&apos;&#x0D;&#x0A;- Original project: &apos;lojaabc&apos;&#x0D;&#x0A;- Original element: &apos;lojaabc/src/br.com.fiap.lib&apos;&#x0D;&#x0A;- Renamed element: &apos;lojaabc/src/br.com.lojaabc.lib&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;br.com.fiap.lib&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;br.com.fiap.lib" name="br.com.lojaabc.lib" qualified="false" references="true" stamp="1617061467382" textual="false" version="1.0"/>
+</session>

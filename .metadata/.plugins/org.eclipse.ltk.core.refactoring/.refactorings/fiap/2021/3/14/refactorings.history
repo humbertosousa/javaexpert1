@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;br.com.fiap.lib&apos; to &apos;lojaabc/src&apos;&#x0D;&#x0A;- Original project: &apos;fiap&apos;&#x0D;&#x0A;- Destination element: &apos;lojaabc/src&apos;&#x0D;&#x0A;- Original element: &apos;fiap/src/br.com.fiap.lib&apos;" description="Copy package" destination="=lojaabc/src" element1="/src&lt;br.com.fiap.lib" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1617061455173" version="1.0"/>
+</session>
